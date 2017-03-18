@@ -1,0 +1,26 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body>img {
+	display: none;
+	position: absolute;
+}
+
+#chun #pic1 {
+	position: absolute;
+	display: none;
+}
+
+.pao {
+	border: 5px dashed mediumvioletred;
+	border-radius: 50%;
+	width: 10px;
+	height: 10px;
+	position: absolute;
+	background-color: wheat;
+	opacity: 0.4;
+	filter: alpha(opacity=40);
+	display: none;
+}
